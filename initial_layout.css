@@ -1,0 +1,25 @@
+
+
+
+#vert-navi ul{
+  list-style: none;
+  padding-inline-start: 0;
+}
+
+.nav-item {
+  background-color: #62AEFC
+}
+
+.prettyprint {
+	padding: 5px;
+}
+
+#inject{
+  min-height: 750px;
+}
+
+
+body #bd {
+    background: #555;
+
+}
